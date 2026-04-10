@@ -1,4 +1,4 @@
-# Codeverse
+# CodeVerse
 
 Codeverse is a CLI-first AI coding agent foundation with provider abstraction, MCP integration hooks, safe native tools, and a testable runtime skeleton.
 
